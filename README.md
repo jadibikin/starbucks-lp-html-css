@@ -5,4 +5,4 @@
 ### Keep improving your dev skill with me and get your best practical coding and your career
 💻 Jadibikin - https://youtube.com/u/jadibikin
 
-📙 Build your own websites, development tips and more - https://www.jadibikin.com
+📙 Build your own websites, development tips and more - https://jadibikin.com/
