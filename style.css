@@ -146,6 +146,10 @@ a {
 }
 
 @media screen and (max-width: 1365px) {
+  .container {
+    max-width: 65rem;
+  }
+
   .navbar-menu__wrapper {
     column-gap: 70px;
   }
