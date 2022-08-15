@@ -1,6 +1,9 @@
-body {
+* {
   margin: 0;
   padding: 0;
+}
+
+body {
   font-family: 'Poppins', sans-serif;
   background-color: #f4e8dc;
   height: 100vh;
